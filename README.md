@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 I'm Artamim, a passionate learner and aspiring DevOps engineer diving into Kubernetes, cloud technologies, and more. Explore this profile to follow my journey, discover my projects, and observe the skills I’m building as I grow in the tech world!
 
-### About Me
+### About Me 📘
 - 🌱 **Learning**: Kubernetes, Docker, CI/CD pipelines, and cloud-native development.
 - 💻 **Focus**: Building scalable systems and automating workflows.
 - 📫 **Contact**: Reach me at [artamim22@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHwsLGcdFXXdDvhqJzRtFdWpvxDPldNCZGtQNtjLvjMhClrlXKHLgvhNRnWBNQNBcBkpMQh) or connect on [LinkedIn](https://www.linkedin.com/in/arifur-rahman-tamim-712494254/).
@@ -30,9 +30,9 @@ I'm Artamim, a passionate learner and aspiring DevOps engineer diving into Kuber
 
 #
 
-### Goals
+### Goals 🎯
 
-- 🎯 Master Kubernetes cluster maintenance and upgrades.
+- 💪 Master Kubernetes cluster maintenance and upgrades.
 - 🚀 Dive into CI/CD with GitHub Actions.
 - 🌟 Contribute to open-source projects.
 - ☁️ Learn cloud platforms like AWS or Azure.
