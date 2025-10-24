@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile !
-I'm Arifur Rahman Tamim, a passionate learner and aspiring DevOps engineer diving into Kubernetes, cloud technologies, and more. This profile showcases my journey, projects, and skills as I grow in the tech world!
+I'm Artamim, a passionate learner and aspiring DevOps engineer diving into Kubernetes, cloud technologies, and more. Explore this profile to follow my journey, discover my projects, and observe the skills I’m building as I grow in the tech world!
 
 ## About Me
 - 🌱 **Learning**: Kubernetes, Docker, CI/CD pipelines, and cloud-native development.
@@ -9,8 +9,9 @@ I'm Arifur Rahman Tamim, a passionate learner and aspiring DevOps engineer divin
 ## Goals
 
 - 🎯 Master Kubernetes cluster maintenance and upgrades.
-- 🚀 Dive into CI/CD with Jenkins or GitHub Actions.
+- 🚀 Dive into CI/CD with GitHub Actions.
 - 🌟 Contribute to open-source projects.
+- ☁️ Learn cloud platforms like AWS or Azure.
 
 ## Let's Connect! 🤝💬🌐
 
