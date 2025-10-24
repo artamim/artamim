@@ -4,7 +4,7 @@ I'm Artamim, a passionate learner and aspiring DevOps engineer diving into Kuber
 ### About Me 📘
 - 🌱 **Learning**: Kubernetes, Docker, CI/CD pipelines, and cloud-native development.
 - 💻 **Focus**: Building scalable systems and automating workflows.
-- 📫 **Contact**: Reach me at [LinkedIn](https://www.linkedin.com/in/arifur-rahman-tamim-712494254/).
+- 📫 **Contact**: Connect on [LinkedIn](https://www.linkedin.com/in/arifur-rahman-tamim-712494254/).
 
 ---
 
